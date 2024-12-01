@@ -1,0 +1,4 @@
+#+title: 2024 - Advent of Code
+
+* Improving RamdaJS this year
+I want to improve my functional programming skills in [[https://www.typescriptlang.org/][Typescript]] and with [[https://ramdajs.com/][RamdaJS]]. So this is the theme for my 2024 [[https://adventofcode.com/2024][advent of code]].

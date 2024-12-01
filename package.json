@@ -1,0 +1,18 @@
+{
+  "name": "2024-advent-of-code",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "day1": "bun run days/day-1/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/ramda": "^0.30.2",
+    "ramda": "^0.30.1"
+  }
+}
